@@ -1,6 +1,9 @@
-# authentication
+# Shop shopping application using Flutter
 
-A new Flutter project.
+🤖👋 Hey there!
+
+As part of my Flutter portfolio, I developed an app for some practice. It was a great opportunity for me to explore different widgets in flutter.
+Overall, I'm pretty excited about how this project turned out and I hope you will enjoy it too! ❤️
 
 ## Getting Started
 
