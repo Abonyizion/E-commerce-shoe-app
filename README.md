@@ -1,9 +1,9 @@
-# Shop shopping application using Flutter
+# Shoe shopping application using Flutter
 
 🤖👋 Hey there!
 
-As part of my Flutter portfolio, I developed an app for some practice. It was a great opportunity for me to explore different widgets in flutter.
-Overall, I'm pretty excited about how this project turned out and I hope you will enjoy it too! ❤️
+As part of my Flutter personal projects, I developed a shopping app for some practice. It was a great opportunity for me to explore different widgets in flutter.
+Overall, I'm pretty excited about how this project turned out and I hope you will find it interesting too! ❤️
 
 ## Getting Started
 
